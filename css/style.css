@@ -1,0 +1,17 @@
+/*reglas dispositivos tableta*/
+@media screen and(min-width:461px) and (max-width: 1279px )
+{
+
+}
+/*reglas dispositivos celular <460px*/
+
+@media screen and(max-width:460px )
+{
+	#lateral{
+		width: 100%;
+	}
+	#principal{
+		width: 100%;
+		margin-top: 20px;
+    }	
+}
